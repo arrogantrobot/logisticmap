@@ -3,14 +3,14 @@
 import png
 import math
 
-p_x = 1000
+p_x = 2000
 p_y = 1000
 log_run = 500
-log_results = 500
+log_results = p_y
 
-start = 2.0
+start = 1.0
 stop = 4.0
-step = (stop - start) / float(p_y)
+step = (stop - start) / float(p_x)
 print "start: {0} stop: {1} step: {2}".format(start, stop, step)
 
 
@@ -36,7 +36,6 @@ def get_last_vals(r):
     answers.append(x)
   return answers
 
-r = 2.0
 platten = []
 for y in range(p_y):
   platten.append([0 for x in range(p_x)])
@@ -48,6 +47,8 @@ for r in drange(start, stop, step):
 for (x, values) in enumerate(results):
   x -= 1
   for v in values:
-    platten[int(math.floor((1 - v) * p_y)) - 1][x] = 255
+    if v >= 1 or v < 0:
+      print "v: {0}".format(v)
+    platten[int(math.floor((1 - v) * p_y))][x] = 255
 
 write_png(platten)
