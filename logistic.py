@@ -53,7 +53,7 @@ def get_last_vals(r):
   for garbage in range(log_run):
     x = r * x * (1.0 - x)
   count = 0
-  while len(answers) < log_results:
+  while len(answers) < log_results*2:
     x = r * x * (1.0 - x)
     if count > 100000:
       #print "skip {0}".format(r)
