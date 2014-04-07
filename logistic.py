@@ -32,6 +32,7 @@ def get_file_name():
   answer = name + ".png"
   while os.path.isfile("./"+answer):
     answer = "{0}_{1}.png".format(name, str(count))
+    count += 1
   return answer
 
 def write_png(platten):
@@ -51,8 +52,13 @@ def get_last_vals(r):
   x = 0.05
   for garbage in range(log_run):
     x = r * x * (1.0 - x)
-  for garbage in range(log_results):
+  count = 0
+  while len(answers) < log_results:
     x = r * x * (1.0 - x)
+    if count > 100000:
+      #print "skip {0}".format(r)
+      break
+    count += 1
     if x > y_min and x < y_max:
       answers.append(x)
   return answers
