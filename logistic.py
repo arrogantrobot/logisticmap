@@ -2,19 +2,22 @@
 
 import png
 import math
+import json
+import sys
 
-scale = 1000.0
-aspect_ratio = 2.0
+conffile = open(sys.argv[1])
+conf = json.load(conffile)
+scale = float(conf['scale'])
+aspect_ratio = float(conf['aspect_ratio'])
 p_x = int(aspect_ratio * scale)
 p_y = int(scale)
 log_run = 500
 log_results = p_y
 
-window_scale = 100.0
-y_min = 0.6
-y_max = 0.722
-start = 2.983333333
-stop = 3.0197777777
+y_min = float(conf['y_min'])
+y_max = float(conf['y_max'])
+start = float(conf['start'])
+stop = float(conf['stop'])
 step = (stop - start) / float(p_x)
 
 
@@ -24,7 +27,7 @@ print "start: {0} stop: {1} step: {2}".format(start, stop, step)
 
 
 def write_png(platten):
-  f = open('logistic.png', 'wb')      # binary mode is important
+  f = open(conf['output_name'], 'wb')      # binary mode is important
   w = png.Writer(p_x, p_y, greyscale=True)
   w.write(f, platten)
   f.close()
