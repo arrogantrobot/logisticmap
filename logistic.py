@@ -3,18 +3,22 @@
 import png
 import math
 
-p_x = 2000
-p_y = 1000
+scale = 1000.0
+aspect_ratio = 2.0
+p_x = int(aspect_ratio * scale)
+p_y = int(scale)
 log_run = 500
 log_results = p_y
 
-start = 2
-stop = 4
+window_scale = 100.0
+y_min = 0.6
+y_max = 0.722
+start = 2.983333333
+stop = 3.0197777777
 step = (stop - start) / float(p_x)
-y_min = 0.3
-y_max = 0.8
 
-y_scale = (y_max - y_min) / p_y
+
+print "p_x: {0} p_y: {1} y_max: {2}".format(p_x, p_y, y_max)
 
 print "start: {0} stop: {1} step: {2}".format(start, stop, step)
 
@@ -48,17 +52,22 @@ for y in range(p_y):
 
 results = []
 for r in drange(start, stop, step):
-  results.append(dict(zip(get_last_vals(r), [1 for x in range(log_results)])))
+  vals = get_last_vals(r)
+  results.append(dict(zip(vals, [1 for x in range(len(vals))])))
 
+print "len(results): {0}".format(len(results))
 for (x, values) in enumerate(results):
-  #x -= 1
+  x -= 1
   for v in values:
-    y = (((1.0 - v)-y_min) * p_y)* (1.0/(y_max - y_min))
+    y = (1.0 - ((v - y_min) / (y_max - y_min))) * p_y
+    #y = (1.0 - ((v * (1.0 / (y_max - y_min))) - y_min)) * p_y
+    #print "y: {0}".format(y)
+    #print "y = (1.0 - (({0} * (1.0 / ({1} - {2}))) - {2}) * {3})".format(v, y_max, y_min, p_y)
     #if y >= p_y - 1 or y < 0:
-    #  print "y: {0}".format(y)
-    #  print v
-    #if x >= p_x - 1 or x < 0:
-    #  print "x: {0}".format(x)
+      #print "y: {0}".format(y)
+    if x >= p_x - 1 or x < 0:
+      #print "x: {0}".format(x)
+      continue
     platten[int(math.floor(y))][x] = 255
 
 write_png(platten)
