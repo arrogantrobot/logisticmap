@@ -5,5 +5,5 @@
   "y_max" : "1.0",
   "start" : "1.0",
   "stop" : "4.0",
-  "output_name" : "whole_plot.png"
+  "output_name" : "whole_plot"
 }

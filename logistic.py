@@ -4,6 +4,7 @@ import png
 import math
 import json
 import sys
+import os.path
 
 conffile = open(sys.argv[1])
 conf = json.load(conffile)
@@ -25,9 +26,16 @@ print "p_x: {0} p_y: {1} y_max: {2}".format(p_x, p_y, y_max)
 
 print "start: {0} stop: {1} step: {2}".format(start, stop, step)
 
+def get_file_name():
+  name = conf['output_name']
+  count = 1
+  answer = name + ".png"
+  while os.path.isfile("./"+answer):
+    answer = "{0}_{1}.png".format(name, str(count))
+  return answer
 
 def write_png(platten):
-  f = open(conf['output_name'], 'wb')      # binary mode is important
+  f = open(get_file_name(), 'wb')      # binary mode is important
   w = png.Writer(p_x, p_y, greyscale=True)
   w.write(f, platten)
   f.close()
@@ -58,7 +66,6 @@ for r in drange(start, stop, step):
   vals = get_last_vals(r)
   results.append(dict(zip(vals, [1 for x in range(len(vals))])))
 
-print "len(results): {0}".format(len(results))
 for (x, values) in enumerate(results):
   x -= 1
   for v in values:
