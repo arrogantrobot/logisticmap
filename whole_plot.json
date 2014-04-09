@@ -1,10 +1,10 @@
 {
-  "scale" : "2000.0",
+  "scale" : "1000.0",
   "aspect_ratio" : "1.777777",
   "y_min" : "0.0",
   "y_max" : "1.0",
   "start" : "1.0",
   "stop" : "4.0",
   "output_name" : "whole_plot",
-  "num_threads" : "2"
+  "num_threads" : "4"
 }
