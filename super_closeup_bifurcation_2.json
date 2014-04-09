@@ -1,9 +1,10 @@
 {
-  "scale" : "4000.0",
+  "scale" : "2000.0",
   "aspect_ratio" : "1.777",
-  "y_min" : "0.662222",
-  "y_max" : "0.662223",
-  "start" : "2.99999",
-  "stop" : "3.00000",
-  "output_name" : "super_closeup_bifurcation"
+  "y_min" : "0.66222",
+  "y_max" : "0.66223",
+  "start" : "2.9999",
+  "stop" : "3.0000",
+  "output_name" : "super_closeup_bifurcation",
+  "num_threads" : "1"
 }

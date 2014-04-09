@@ -5,6 +5,8 @@ import math
 import json
 import sys
 import os.path
+import Queue
+import threading
 
 conffile = open(sys.argv[1])
 conf = json.load(conffile)
@@ -14,6 +16,7 @@ p_x = int(aspect_ratio * scale)
 p_y = int(scale)
 log_run = 500
 log_results = p_y
+num_threads = int(conf['num_threads']) if conf['num_threads'] else 1
 
 y_min = float(conf['y_min'])
 y_max = float(conf['y_max'])
@@ -60,21 +63,54 @@ def get_last_vals(r):
       answers.append(x)
   return answers
 
+def run_interval(idx, strt, stp, q):
+  print "run_interval({0},{1},{2})".format(idx, strt, stp)
+  sub_answers = []
+  for r in drange(strt, stp, step):
+    vals = get_last_vals(r)
+    rslts = dict(
+      zip(
+        vals, 
+        [1 for x in range(len(vals))]
+      )
+    )
+    sub_answers.append(rslts.keys())
+  q[idx] = sub_answers
+
 platten = []
 for y in range(p_y):
   platten.append([0 for x in range(p_x)])
 
 results = []
-for r in drange(start, stop, step):
-  vals = get_last_vals(r)
-  results.append(dict(zip(vals, [1 for x in range(len(vals))])))
+answers = Queue.Queue()
+answer_dict = {}
+x_span = p_x / num_threads
+threads = []
+for s in range(num_threads):
+  if num_threads == 1:
+    run_interval(s, start + s*x_span*step, start + (s+1)*x_span*step, answer_dict)
+  else:
+    t = threading.Thread(target=run_interval, args=(s, start + s*x_span*step, start + (s+1)*x_span*step, answer_dict))
+    t.daemon = True
+    t.start()
+    threads.append(t)
+if num_threads > 1:
+  for t in threads:
+    t.join()
 
+for key in range(num_threads):
+  for l in answer_dict[key]:
+    results.append(l)
+
+
+print "starting to enumerate"
 for (x, values) in enumerate(results):
   x -= 1
   for v in values:
+    #for v in d.keys():
     y = (1.0 - ((v - y_min) / (y_max - y_min))) * p_y
     if x >= p_x - 1 or x < 0:
       continue
     platten[int(math.floor(y))][x] = 255
-
+print "done enumerating"
 write_png(platten)
