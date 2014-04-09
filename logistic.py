@@ -21,9 +21,7 @@ start = float(conf['start'])
 stop = float(conf['stop'])
 step = (stop - start) / float(p_x)
 
-
 print "p_x: {0} p_y: {1} y_max: {2}".format(p_x, p_y, y_max)
-
 print "start: {0} stop: {1} step: {2}".format(start, stop, step)
 
 def get_file_name():
@@ -56,7 +54,6 @@ def get_last_vals(r):
   while len(answers) < log_results*2:
     x = r * x * (1.0 - x)
     if count > 100000:
-      #print "skip {0}".format(r)
       break
     count += 1
     if x > y_min and x < y_max:
@@ -76,13 +73,7 @@ for (x, values) in enumerate(results):
   x -= 1
   for v in values:
     y = (1.0 - ((v - y_min) / (y_max - y_min))) * p_y
-    #y = (1.0 - ((v * (1.0 / (y_max - y_min))) - y_min)) * p_y
-    #print "y: {0}".format(y)
-    #print "y = (1.0 - (({0} * (1.0 / ({1} - {2}))) - {2}) * {3})".format(v, y_max, y_min, p_y)
-    #if y >= p_y - 1 or y < 0:
-      #print "y: {0}".format(y)
     if x >= p_x - 1 or x < 0:
-      #print "x: {0}".format(x)
       continue
     platten[int(math.floor(y))][x] = 255
 
