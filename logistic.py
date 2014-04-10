@@ -16,11 +16,13 @@ def get_file_name(conf):
     count += 1
   return answer
 
-def write_png(conf, platten):
-  f = open(get_file_name(conf), 'wb')      # binary mode is important
+def write_png(conf, platten, p_x, p_y):
+  filename = get_file_name(conf)
+  f = open(filename, 'wb')      # binary mode is important
   w = png.Writer(p_x, p_y, greyscale=True)
   w.write(f, platten)
   f.close()
+  print "wrote png to {0}".format(filename)
 
 def drange(start, stop, step):
   n = start
@@ -43,7 +45,7 @@ def get_last_vals(r, num, y_min, y_max):
       answers.append(x)
   return answers
 
-def run_interval(idx, strt, stp, q, p_x, p_y, y_min, y_max):
+def run_interval(idx, strt, stp, q, p_x, p_y, y_min, y_max, step):
   print "run_interval({0},{1},{2})".format(idx, strt, stp)
   sub_answers = []
   for r in drange(strt, stp, step):
@@ -59,10 +61,7 @@ def run_interval(idx, strt, stp, q, p_x, p_y, y_min, y_max):
   q.close()
   print "exiting thread #{0}, q.qsize(): {1}, len(sub_answers): {2}".format(idx, q.qsize(),len(sub_answers))
 
-if __name__ == "__main__":
-
-  conffile = open(sys.argv[1])
-  conf = json.load(conffile)
+def main(conf):
   scale = float(conf['scale'])
   aspect_ratio = float(conf['aspect_ratio'])
   p_x = int(aspect_ratio * scale)
@@ -88,7 +87,7 @@ if __name__ == "__main__":
   x_span = p_x / num_threads
   processes = []
   for s in range(num_threads):
-    p = Process(target=run_interval, args=(s, start + s*x_span*step, start + (s+1)*x_span*step, answers, p_x, p_y, y_min, y_max))
+    p = Process(target=run_interval, args=(s, start + s*x_span*step, start + (s+1)*x_span*step, answers, p_x, p_y, y_min, y_max, step))
     p.start()
     processes.append(p)
   
@@ -109,4 +108,10 @@ if __name__ == "__main__":
       if x >= p_x - 1 or x < 0:
         continue
       platten[int(math.floor(y))][x] = 255
-  write_png(conf, platten)
+  write_png(conf, platten, p_x, p_y)
+
+if __name__ == "__main__":
+  conffile = open(sys.argv[1])
+  conf = json.load(conffile)
+  for c in conf['images']:
+    main(c)

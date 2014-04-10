@@ -1,9 +1,21 @@
 {
-  "scale" : "2000.0",
+  "frames" : "100",
+  "threads" : "4",
+
+  "x_min_start" : "3.550",
+  "x_min_stop" : "3.550",
+
+  "x_max_start" : "3.650",
+  "x_max_stop" : "3.650",
+
+  "y_min_start" : "0.5",
+  "y_min_stop" : "0.7",
+
+  "y_max_start" : "0.55",
+  "y_max_stop" : "0.75",
+
+  "scale" : "720",
   "aspect_ratio" : "1.777777",
-  "y_min" : "0.4",
-  "y_max" : "0.6",
-  "start" : "3.55",
-  "stop" : "3.85",
-  "output_name" : "chaos"
+  "output_name" : "chaos/chaos"
 }
+
