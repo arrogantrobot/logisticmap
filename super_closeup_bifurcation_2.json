@@ -5,6 +5,6 @@
   "y_max" : "0.66223",
   "start" : "2.9999",
   "stop" : "3.0000",
-  "output_name" : "super_closeup_bifurcation",
-  "num_threads" : "1"
+  "output_name" : "img/super_closeup_bifurcation",
+  "num_threads" : "4"
 }

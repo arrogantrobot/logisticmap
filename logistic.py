@@ -5,9 +5,7 @@ import math
 import json
 import sys
 import os.path
-from Queue import PriorityQueue
-from multiprocessing import Process
-
+from multiprocessing import Process, Queue
 
 def get_file_name(conf):
   name = conf['output_name']
@@ -57,7 +55,8 @@ def run_interval(idx, strt, stp, q, p_x, p_y, y_min, y_max):
       )
     )
     sub_answers.append(rslts.keys())
-  q.put(sub_answers, idx)
+  q.put((idx, sub_answers))
+  q.close()
   print "exiting thread #{0}, q.qsize(): {1}, len(sub_answers): {2}".format(idx, q.qsize(),len(sub_answers))
 
 if __name__ == "__main__":
@@ -85,38 +84,29 @@ if __name__ == "__main__":
     platten.append([0 for x in range(p_x)])
 
   results = []
-  answers = PriorityQueue()
+  answers = Queue()
   x_span = p_x / num_threads
   processes = []
   for s in range(num_threads):
-    if num_threads == 1:
-      run_interval(s, start + s*x_span*step, start + (s+1)*x_span*step, answers, p_x, p_y, y_min, y_max)
-    else:
-      p = Process(target=run_interval, args=(s, start + s*x_span*step, start + (s+1)*x_span*step, answers, p_x, p_y, y_min, y_max))
-      p.start()
-      processes.append(p)
+    p = Process(target=run_interval, args=(s, start + s*x_span*step, start + (s+1)*x_span*step, answers, p_x, p_y, y_min, y_max))
+    p.start()
+    processes.append(p)
+  
+  for n in range(num_threads):
+    results.append(answers.get())
 
   for p in processes:
-    print "joining {0}".format(p.join())
+    p.join()
 
-  while not answers.empty():
-    results.append(answers.get(True))
-    print "typeof answers: {0}".format(type(results[0]))
+  sorted_results = []
+  for r in sorted(results):
+    for v in r[1]:
+      sorted_results.append(v)
 
-
-  print "starting to enumerate"
-  print "typeof results: {0}".format(type(results))
-  print "len(results): {0}".format(len(results))
-  ycoords = [val for sublist in results for val in sublist]
-  for (x, values) in enumerate(ycoords):
-    #print "typeof values: {0}".format(type(values))
-    #print "len(values): {0}".format(len(values))
-    x -= 1
+  for (x, values) in enumerate(sorted_results):
     for v in values:
-      #print "typeof v: {0}".format(type(v))
       y = (1.0 - ((v - y_min) / (y_max - y_min))) * p_y
       if x >= p_x - 1 or x < 0:
         continue
       platten[int(math.floor(y))][x] = 255
-  print "done enumerating"
   write_png(conf, platten)
