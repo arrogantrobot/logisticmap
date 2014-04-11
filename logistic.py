@@ -32,7 +32,7 @@ def drange(start, stop, step):
 
 def get_last_vals(r, num, y_min, y_max):
   answers = []
-  x = 0.05
+  x = 0.5
   for garbage in range(500):
     x = r * x * (1.0 - x)
   count = 0
