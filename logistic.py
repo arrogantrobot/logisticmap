@@ -9,10 +9,10 @@ from multiprocessing import Process, Queue
 
 def get_file_name(conf):
   name = conf['output_name']
-  count = 1
-  answer = name + ".png"
+  count = 0
+  answer = "{0}_{1:03d}.png".format(name, count)
   while os.path.isfile("./"+answer):
-    answer = "{0}_{1}.png".format(name, str(count))
+    answer = "{0}_{1:03d}.png".format(name, count)
     count += 1
   return answer
 
@@ -43,20 +43,14 @@ def get_last_vals(r, num, y_min, y_max):
     count += 1
     if x > y_min and x < y_max:
       answers.append(x)
-  return answers
+  return list(set(answers))
 
 def run_interval(idx, strt, stp, q, p_x, p_y, y_min, y_max, step):
   print "run_interval({0},{1},{2})".format(idx, strt, stp)
   sub_answers = []
   for r in drange(strt, stp, step):
-    vals = get_last_vals(r, p_y, y_min, y_max)
-    rslts = dict(
-      zip(
-        vals, 
-        [1 for x in range(len(vals))]
-      )
-    )
-    sub_answers.append(rslts.keys())
+    sub_answers.append(get_last_vals(r, p_y, y_min, y_max))
+
   q.put((idx, sub_answers))
   q.close()
   print "exiting thread #{0}, q.qsize(): {1}, len(sub_answers): {2}".format(idx, q.qsize(),len(sub_answers))
