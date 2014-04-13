@@ -32,8 +32,8 @@ def drange(start, stop, step):
 
 def get_last_vals(r, num, y_min, y_max):
   answers = []
-  x = 0.5
-  for garbage in range(500):
+  x = 0.2
+  for garbage in range(50):
     x = r * x * (1.0 - x)
   count = 0
   while len(answers) < num:
@@ -46,7 +46,7 @@ def get_last_vals(r, num, y_min, y_max):
   return list(set(answers))
 
 def run_interval(idx, strt, stp, q, p_x, p_y, y_min, y_max, step):
-  print "run_interval({0},{1},{2})".format(idx, strt, stp)
+  print "run_interval({0},{1},{2},{3})".format(idx, strt, stp,step)
   sub_answers = []
   for r in drange(strt, stp, step):
     sub_answers.append(get_last_vals(r, p_y, y_min, y_max))
@@ -81,7 +81,9 @@ def main(conf):
   x_span = p_x / num_threads
   processes = []
   for s in range(num_threads):
-    p = Process(target=run_interval, args=(s, start + s*x_span*step, start + (s+1)*x_span*step, answers, p_x, p_y, y_min, y_max, step))
+    interval_start = start + s*x_span*step
+    interval_stop = (start + (s+1)*x_span*step) - step
+    p = Process(target=run_interval, args=(s, interval_start, interval_stop , answers, p_x, p_y, y_min, y_max, step))
     p.start()
     processes.append(p)
   
