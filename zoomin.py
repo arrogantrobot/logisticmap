@@ -32,9 +32,8 @@ if __name__ == "__main__":
   answer = {}
   images = []
 
-  x_ratio = (x_max_stop - x_min_stop) / (x_max_start - x_min_start) 
-  y_ratio = (y_max_stop - y_min_stop) / (y_max_start - y_min_start) 
-  print "xr {0}  yr {1}".format(x_ratio, y_ratio)
+  x_ratio = (1 - ((x_max_stop - x_min_stop) / (x_max_start - x_min_start))) / float(frames)
+  y_ratio = (1 - ((y_max_stop - y_min_stop) / (y_max_start - y_min_start))) / float(frames) 
 
   width = x_max_start - x_min_start
   height = y_max_start - y_min_start
@@ -42,7 +41,6 @@ if __name__ == "__main__":
   for n in range(frames):
     width = width * (1 - (n * x_ratio))
     height = height * (1 - (n * y_ratio))
-    print "w {0}  h {1}".format(width, height)
     images.append( {
       "scale" : scale,
       "aspect_ratio" : aspect_ratio,

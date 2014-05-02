@@ -47,5 +47,5 @@ if __name__ == "__main__":
     })
 
   answer["images"] = images
-  print json.dumps(answer)
+  print json.dumps(answer, sort_keys=True, indent=4, separators=(',', ': '))
 

@@ -10,9 +10,9 @@ from multiprocessing import Process, Queue
 def get_file_name(conf):
   name = conf['output_name']
   count = 0
-  answer = "{0}_{1:03d}.png".format(name, count)
+  answer = "{0}_{1:05d}.png".format(name, count)
   while os.path.isfile("./"+answer):
-    answer = "{0}_{1:03d}.png".format(name, count)
+    answer = "{0}_{1:05d}.png".format(name, count)
     count += 1
   return answer
 
@@ -33,7 +33,7 @@ def drange(start, stop, step):
 def get_last_vals(r, num, y_min, y_max):
   answers = []
   x = 0.2
-  for garbage in range(50):
+  for garbage in range(5000):
     x = r * x * (1.0 - x)
   count = 0
   while len(answers) < num:
@@ -45,20 +45,43 @@ def get_last_vals(r, num, y_min, y_max):
       answers.append(x)
   return list(set(answers))
 
+def get_r_vals(r, num, y_min, y_max):
+  vals = set()
+  x = 0.2
+  count = 0
+  while x not in vals:
+    vals.add(x)
+    x = r * x * (1.0 - x)
+    count += 1
+    if count > 100000:
+      return list(vals)
+  vals.clear()
+  count = 0
+  while x not in vals:
+    vals.add(x)
+    x = r * x * (1.0 - x)
+    count += 1
+    if count > 100000:
+      return list(vals)
+  return list(vals)
+
 def run_interval(idx, strt, stp, q, p_x, p_y, y_min, y_max, step):
   print "run_interval({0},{1},{2},{3})".format(idx, strt, stp,step)
   sub_answers = []
   for r in drange(strt, stp, step):
     sub_answers.append(get_last_vals(r, p_y, y_min, y_max))
+    #sub_answers.append(get_r_vals(r, p_y, y_min, y_max))
 
   q.put((idx, sub_answers))
   q.close()
-  print "exiting thread #{0}, q.qsize(): {1}, len(sub_answers): {2}".format(idx, q.qsize(),len(sub_answers))
+  print "exiting thread #{0}, q.qsize(): {1}, len(sub_answers): {2}, with size {3}".format(idx, q.qsize(),len(sub_answers), sys.getsizeof(sub_answers))
 
 def main(conf):
   scale = float(conf['scale'])
   aspect_ratio = float(conf['aspect_ratio'])
   p_x = int(aspect_ratio * scale)
+  if p_x % 2 != 0:
+    p_x += 1
   p_y = int(scale)
   log_run = 500
   log_results = p_y
