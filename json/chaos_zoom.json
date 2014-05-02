@@ -1,0 +1,404 @@
+{
+    "images": [
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "2.07",
+            "stop": "5.07",
+            "y_max": "1.34995",
+            "y_min": "0.35005"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "2.1074875",
+            "stop": "5.0325125",
+            "y_max": "1.33746375",
+            "y_min": "0.36253625"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "2.18058874979",
+            "stop": "4.95941125021",
+            "y_max": "1.31311493813",
+            "y_min": "0.386885061875"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "2.28475985828",
+            "stop": "4.85524014172",
+            "y_max": "1.27841605486",
+            "y_min": "0.42158394514"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "2.41324103111",
+            "stop": "4.72675896889",
+            "y_max": "1.23561729526",
+            "y_min": "0.464382704736"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "2.55778770393",
+            "stop": "4.58221229607",
+            "y_max": "1.18746334034",
+            "y_min": "0.512536659662"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "2.70956893773",
+            "stop": "4.43043106227",
+            "y_max": "1.13689446385",
+            "y_min": "0.563105536149"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "2.86009418181",
+            "stop": "4.27990581819",
+            "y_max": "1.08673814423",
+            "y_min": "0.61326185577"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.0020280184",
+            "stop": "4.1379719816",
+            "y_max": "1.03943786775",
+            "y_min": "0.660562132252"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.12977911636",
+            "stop": "4.01022088364",
+            "y_max": "0.996856975288",
+            "y_min": "0.703143024712"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.23979765219",
+            "stop": "3.90020234781",
+            "y_max": "0.960179449381",
+            "y_min": "0.739820550619"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.33057302929",
+            "stop": "3.80942697071",
+            "y_max": "0.92991040318",
+            "y_min": "0.77008959682"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.40237717781",
+            "stop": "3.73762282219",
+            "y_max": "0.905961257745",
+            "y_min": "0.794038742255"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.45683643588",
+            "stop": "3.68316356412",
+            "y_max": "0.887792038205",
+            "y_min": "0.812207961795"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.49643048091",
+            "stop": "3.64356951909",
+            "y_max": "0.87457805337",
+            "y_min": "0.82542194663"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.52400985438",
+            "stop": "3.61599014562",
+            "y_max": "0.865370501048",
+            "y_min": "0.834629498952"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.54239978061",
+            "stop": "3.59760021939",
+            "y_max": "0.859228449444",
+            "y_min": "0.840771550556"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.55412596382",
+            "stop": "3.58587403618",
+            "y_max": "0.855310280914",
+            "y_min": "0.844689719086"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56126689899",
+            "stop": "3.57873310101",
+            "y_max": "0.852923044368",
+            "y_min": "0.847076955632"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56541373923",
+            "stop": "3.57458626077",
+            "y_max": "0.851535986878",
+            "y_min": "0.848464013122"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56770610524",
+            "stop": "3.57229389476",
+            "y_max": "0.850768761509",
+            "y_min": "0.849231238491"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56890999856",
+            "stop": "3.57109000144",
+            "y_max": "0.850365565357",
+            "y_min": "0.849634434643"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56950929952",
+            "stop": "3.57049070048",
+            "y_max": "0.850164705492",
+            "y_min": "0.849835294508"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56979135824",
+            "stop": "3.57020864176",
+            "y_max": "0.850070094549",
+            "y_min": "0.849929905451"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56991650157",
+            "stop": "3.57008349843",
+            "y_max": "0.850028079881",
+            "y_min": "0.849971920119"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56996867069",
+            "stop": "3.57003132931",
+            "y_max": "0.850010547507",
+            "y_min": "0.849989452493"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56998902795",
+            "stop": "3.57001097205",
+            "y_max": "0.850003698484",
+            "y_min": "0.849996301516"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999643162",
+            "stop": "3.57000356838",
+            "y_max": "0.850001204504",
+            "y_min": "0.849998795496"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999892865",
+            "stop": "3.57000107135",
+            "y_max": "0.850000362194",
+            "y_min": "0.849999637806"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999970512",
+            "stop": "3.57000029488",
+            "y_max": "0.850000099866",
+            "y_min": "0.849999900134"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999992621",
+            "stop": "3.57000007379",
+            "y_max": "0.850000025041",
+            "y_min": "0.849999974959"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999998338",
+            "stop": "3.57000001662",
+            "y_max": "0.850000005654",
+            "y_min": "0.849999994346"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999999667",
+            "stop": "3.57000000333",
+            "y_max": "0.850000001135",
+            "y_min": "0.849999998865"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999999942",
+            "stop": "3.57000000058",
+            "y_max": "0.8500000002",
+            "y_min": "0.8499999998"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999999991",
+            "stop": "3.57000000009",
+            "y_max": "0.85000000003",
+            "y_min": "0.84999999997"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999999999",
+            "stop": "3.57000000001",
+            "y_max": "0.850000000004",
+            "y_min": "0.849999999996"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.57",
+            "stop": "3.57",
+            "y_max": "0.85",
+            "y_min": "0.85"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.57",
+            "stop": "3.57",
+            "y_max": "0.85",
+            "y_min": "0.85"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.57",
+            "stop": "3.57",
+            "y_max": "0.85",
+            "y_min": "0.85"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom/chaos_zoom",
+            "scale": "720",
+            "start": "3.57",
+            "stop": "3.57",
+            "y_max": "0.85",
+            "y_min": "0.85"
+        }
+    ]
+}

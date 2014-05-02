@@ -1,0 +1,12 @@
+{
+  "images" : [ {
+  "scale" : "2000.0",
+  "aspect_ratio" : "1.777",
+  "y_min" : "0.65",
+  "y_max" : "0.67",
+  "start" : "2.9",
+  "stop" : "3.1",
+  "output_name" : "revealed",
+  "num_threads" : "4"
+  }]
+}

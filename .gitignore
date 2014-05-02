@@ -1,2 +1,16 @@
 *.pyc
 *.png
+bifzoom/
+bifzoom_2/
+bifzoom_3/
+chaos/
+chaos_2/
+chaos_old/
+chaos_pan/
+chaos_pan_2/
+chaos_pan_3/
+chaos_pan_4/
+chaos_view/
+chaos_zoom/
+chaos_zoom_2/
+chaos_zoom_3/

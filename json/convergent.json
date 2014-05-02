@@ -1,0 +1,12 @@
+{
+  "images" : [{ 
+  "scale" : "1000.0",
+  "aspect_ratio" : "1.777777",
+  "y_min" : "0.0",
+  "y_max" : "1.0",
+  "start" : "1.0",
+  "stop" : "2.5",
+  "output_name" : "convergent",
+  "num_threads" : "4"
+  }]
+}

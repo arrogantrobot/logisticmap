@@ -1,0 +1,6004 @@
+{
+    "images": [
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.5",
+            "stop": "4.5",
+            "y_max": "1.166616",
+            "y_min": "0.166716"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.50249999167",
+            "stop": "4.49750000833",
+            "y_max": "1.16578275833",
+            "y_min": "0.167549241667"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.50749164172",
+            "stop": "4.49250835828",
+            "y_max": "1.16411905244",
+            "y_min": "0.169212947556"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.51495415864",
+            "stop": "4.48504584136",
+            "y_max": "1.16163181206",
+            "y_min": "0.171700187943"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.52485443125",
+            "stop": "4.47514556875",
+            "y_max": "1.15833207298",
+            "y_min": "0.174999927022"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.53714727001",
+            "stop": "4.46285272999",
+            "y_max": "1.15423489668",
+            "y_min": "0.179097103321"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.55177574855",
+            "stop": "4.44822425145",
+            "y_max": "1.14935925647",
+            "y_min": "0.183972743526"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.56867164183",
+            "stop": "4.43132835817",
+            "y_max": "1.14372789147",
+            "y_min": "0.189604108531"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.58775595632",
+            "stop": "4.41224404368",
+            "y_max": "1.13736712986",
+            "y_min": "0.195964870136"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.60893954637",
+            "stop": "4.39106045363",
+            "y_max": "1.13030668353",
+            "y_min": "0.203025316472"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.63212380998",
+            "stop": "4.36787619002",
+            "y_max": "1.12257941608",
+            "y_min": "0.210752583916"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.65720145654",
+            "stop": "4.34279854346",
+            "y_max": "1.11422108705",
+            "y_min": "0.219110912952"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.68405733789",
+            "stop": "4.31594266211",
+            "y_max": "1.10527007483",
+            "y_min": "0.228061925173"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.71256933386",
+            "stop": "4.28743066614",
+            "y_max": "1.09576708158",
+            "y_min": "0.23756491842"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.7426092826",
+            "stop": "4.2573907174",
+            "y_max": "1.08575482314",
+            "y_min": "0.247577176857"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.77404394575",
+            "stop": "4.22595605425",
+            "y_max": "1.07527770735",
+            "y_min": "0.258054292653"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.80673599823",
+            "stop": "4.19326400177",
+            "y_max": "1.06438150413",
+            "y_min": "0.268950495875"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.84054503225",
+            "stop": "4.15945496775",
+            "y_max": "1.05311301087",
+            "y_min": "0.280218989128"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.87532856533",
+            "stop": "4.12467143467",
+            "y_max": "1.04151971649",
+            "y_min": "0.291812283508"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.91094304205",
+            "stop": "4.08905695795",
+            "y_max": "1.02964946752",
+            "y_min": "0.303682532482"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.94724481964",
+            "stop": "4.05275518036",
+            "y_max": "1.01755013961",
+            "y_min": "0.315781860392"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "1.98409112813",
+            "stop": "4.01590887187",
+            "y_max": "1.00526931754",
+            "y_min": "0.328062682457"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.02134099593",
+            "stop": "3.97865900407",
+            "y_max": "0.992853986734",
+            "y_min": "0.340478013266"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.05885613271",
+            "stop": "3.94114386729",
+            "y_max": "0.98035023896",
+            "y_min": "0.35298176104"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.09650176191",
+            "stop": "3.90349823809",
+            "y_max": "0.967802994888",
+            "y_min": "0.365529005112"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.13414739635",
+            "stop": "3.86585260365",
+            "y_max": "0.955255745587",
+            "y_min": "0.378076254413"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.17166755077",
+            "stop": "3.82833244923",
+            "y_max": "0.942750315013",
+            "y_min": "0.390581684987"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.20894238674",
+            "stop": "3.79105761326",
+            "y_max": "0.930326645088",
+            "y_min": "0.403005354912"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.24585828563",
+            "stop": "3.75414171437",
+            "y_max": "0.918022604704",
+            "y_min": "0.415309395296"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.28230834699",
+            "stop": "3.71769165301",
+            "y_max": "0.905873823645",
+            "y_min": "0.427458176355"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.31819281003",
+            "stop": "3.68180718997",
+            "y_max": "0.893913552078",
+            "y_min": "0.439418447922"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.35341939742",
+            "stop": "3.64658060258",
+            "y_max": "0.882172545977",
+            "y_min": "0.451159454023"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.38790358128",
+            "stop": "3.61209641872",
+            "y_max": "0.870678978474",
+            "y_min": "0.462653021526"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.42156877209",
+            "stop": "3.57843122791",
+            "y_max": "0.859458376876",
+            "y_min": "0.473873623124"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.45434643241",
+            "stop": "3.54565356759",
+            "y_max": "0.84853358478",
+            "y_min": "0.48479841522"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.48617611776",
+            "stop": "3.51382388224",
+            "y_max": "0.837924748434",
+            "y_min": "0.495407251566"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.51700544793",
+            "stop": "3.48299455207",
+            "y_max": "0.827649326294",
+            "y_min": "0.505682673706"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.54679001269",
+            "stop": "3.45320998731",
+            "y_max": "0.817722120455",
+            "y_min": "0.515609879545"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.57549321621",
+            "stop": "3.42450678379",
+            "y_max": "0.808155328505",
+            "y_min": "0.525176671495"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.60308606518",
+            "stop": "3.39691393482",
+            "y_max": "0.798958614129",
+            "y_min": "0.534373385871"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.62954690596",
+            "stop": "3.37045309404",
+            "y_max": "0.790139194724",
+            "y_min": "0.543192805276"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.65486111634",
+            "stop": "3.34513888366",
+            "y_max": "0.781701944133",
+            "y_min": "0.551630055867"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.67902075766",
+            "stop": "3.32097924234",
+            "y_max": "0.773649508577",
+            "y_min": "0.559682491423"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.70202419335",
+            "stop": "3.29797580665",
+            "y_max": "0.765982433808",
+            "y_min": "0.567349566192"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.72387567967",
+            "stop": "3.27612432033",
+            "y_max": "0.758699301502",
+            "y_min": "0.574632698498"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.74458493466",
+            "stop": "3.25541506534",
+            "y_max": "0.751796872921",
+            "y_min": "0.581535127079"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.76416669107",
+            "stop": "3.23583330893",
+            "y_max": "0.745270237937",
+            "y_min": "0.588061762063"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.78264023869",
+            "stop": "3.21735976131",
+            "y_max": "0.739112967545",
+            "y_min": "0.594219032455"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.80002896163",
+            "stop": "3.19997103837",
+            "y_max": "0.733317268105",
+            "y_min": "0.600014731895"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.81635987533",
+            "stop": "3.18364012467",
+            "y_max": "0.727874135647",
+            "y_min": "0.605457864353"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.83166316804",
+            "stop": "3.16833683196",
+            "y_max": "0.722773508688",
+            "y_min": "0.610558491312"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.84597175106",
+            "stop": "3.15402824894",
+            "y_max": "0.718004418146",
+            "y_min": "0.615327581854"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.85932082147",
+            "stop": "3.14067917853",
+            "y_max": "0.713555133071",
+            "y_min": "0.619776866929"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.87174744082",
+            "stop": "3.12825255918",
+            "y_max": "0.709413301073",
+            "y_min": "0.623918698927"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.88329013267",
+            "stop": "3.11670986733",
+            "y_max": "0.705566082452",
+            "y_min": "0.627765917548"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.89398850151",
+            "stop": "3.10601149849",
+            "y_max": "0.702000277223",
+            "y_min": "0.631331722777"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.90388287506",
+            "stop": "3.09611712494",
+            "y_max": "0.698702444331",
+            "y_min": "0.634629555669"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.91301397149",
+            "stop": "3.08698602851",
+            "y_max": "0.695659012557",
+            "y_min": "0.637672987443"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.92142259288",
+            "stop": "3.07857740712",
+            "y_max": "0.692856382706",
+            "y_min": "0.640475617294"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.92914934549",
+            "stop": "3.07085065451",
+            "y_max": "0.69028102083",
+            "y_min": "0.64305097917"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.93623438733",
+            "stop": "3.06376561267",
+            "y_max": "0.687919542364",
+            "y_min": "0.645412457636"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.94271720301",
+            "stop": "3.05728279699",
+            "y_max": "0.685758787167",
+            "y_min": "0.647573212833"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.94863640563",
+            "stop": "3.05136359437",
+            "y_max": "0.683785885558",
+            "y_min": "0.649546114442"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.95402956506",
+            "stop": "3.04597043494",
+            "y_max": "0.681988315552",
+            "y_min": "0.651343684448"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.95893306178",
+            "stop": "3.04106693822",
+            "y_max": "0.680353951572",
+            "y_min": "0.652978048428"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.96338196526",
+            "stop": "3.03661803474",
+            "y_max": "0.678871104981",
+            "y_min": "0.654460895019"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.96740993565",
+            "stop": "3.03259006435",
+            "y_max": "0.67752855686",
+            "y_min": "0.65580344314"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.97104914737",
+            "stop": "3.02895085263",
+            "y_max": "0.676315583475",
+            "y_min": "0.657016416525"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.97433023307",
+            "stop": "3.02566976693",
+            "y_max": "0.675221974952",
+            "y_min": "0.658110025048"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.97728224642",
+            "stop": "3.02271775358",
+            "y_max": "0.674238047673",
+            "y_min": "0.659093952327"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.97993264217",
+            "stop": "3.02006735783",
+            "y_max": "0.673354650946",
+            "y_min": "0.659977349054"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9823072716",
+            "stop": "3.0176927284",
+            "y_max": "0.6725631685",
+            "y_min": "0.6607688315"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.98443039193",
+            "stop": "3.01556960807",
+            "y_max": "0.671855515357",
+            "y_min": "0.661476484643"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.98632468793",
+            "stop": "3.01367531207",
+            "y_max": "0.671224130637",
+            "y_min": "0.662107869363"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.98801130413",
+            "stop": "3.01198869587",
+            "y_max": "0.670661966814",
+            "y_min": "0.662670033186"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.98950988612",
+            "stop": "3.01049011388",
+            "y_max": "0.670162475957",
+            "y_min": "0.663169524043"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99083862945",
+            "stop": "3.00916137055",
+            "y_max": "0.669719593432",
+            "y_min": "0.663612406568"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99201433475",
+            "stop": "3.00798566525",
+            "y_max": "0.669327719528",
+            "y_min": "0.664004280472"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99305246777",
+            "stop": "3.00694753223",
+            "y_max": "0.66898169945",
+            "y_min": "0.66435030055"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99396722313",
+            "stop": "3.00603277687",
+            "y_max": "0.668676802071",
+            "y_min": "0.664655197929"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9947715907",
+            "stop": "3.0052284093",
+            "y_max": "0.66840869781",
+            "y_min": "0.66492330219"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9954774236",
+            "stop": "3.0045225764",
+            "y_max": "0.668173435958",
+            "y_min": "0.665158564042"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99609550698",
+            "stop": "3.00390449302",
+            "y_max": "0.667967421771",
+            "y_min": "0.665364578229"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99663562672",
+            "stop": "3.00336437328",
+            "y_max": "0.66778739356",
+            "y_min": "0.66554460644"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99710663741",
+            "stop": "3.00289336259",
+            "y_max": "0.667630400032",
+            "y_min": "0.665701599968"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99751652907",
+            "stop": "3.00248347093",
+            "y_max": "0.66749377806",
+            "y_min": "0.66583822194"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99787249205",
+            "stop": "3.00212750795",
+            "y_max": "0.667375131058",
+            "y_min": "0.665956868942"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99818097968",
+            "stop": "3.00181902032",
+            "y_max": "0.667272308083",
+            "y_min": "0.666059691917"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99844776844",
+            "stop": "3.00155223156",
+            "y_max": "0.667183383787",
+            "y_min": "0.666148616213"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99867801535",
+            "stop": "3.00132198465",
+            "y_max": "0.667106639293",
+            "y_min": "0.666225360707"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99887631239",
+            "stop": "3.00112368761",
+            "y_max": "0.66704054406",
+            "y_min": "0.66629145594"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99904673777",
+            "stop": "3.00095326223",
+            "y_max": "0.666983738779",
+            "y_min": "0.666348261221"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99919290416",
+            "stop": "3.00080709584",
+            "y_max": "0.66693501932",
+            "y_min": "0.66639698068"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9993180036",
+            "stop": "3.0006819964",
+            "y_max": "0.666893321742",
+            "y_min": "0.666438678258"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99942484935",
+            "stop": "3.00057515065",
+            "y_max": "0.666857708359",
+            "y_min": "0.666474291641"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99951591456",
+            "stop": "3.00048408544",
+            "y_max": "0.666827354839",
+            "y_min": "0.666504645161"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99959336797",
+            "stop": "3.00040663203",
+            "y_max": "0.666801538323",
+            "y_min": "0.666530461677"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9996591066",
+            "stop": "3.0003408934",
+            "y_max": "0.666779626513",
+            "y_min": "0.666552373487"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99971478567",
+            "stop": "3.00028521433",
+            "y_max": "0.666761067702",
+            "y_min": "0.666570932298"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99976184588",
+            "stop": "3.00023815412",
+            "y_max": "0.666745381688",
+            "y_min": "0.666586618312"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9998015381",
+            "stop": "3.0001984619",
+            "y_max": "0.666732151539",
+            "y_min": "0.666599848461"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99983494574",
+            "stop": "3.00016505426",
+            "y_max": "0.666721016141",
+            "y_min": "0.666610983859"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99986300487",
+            "stop": "3.00013699513",
+            "y_max": "0.666711663491",
+            "y_min": "0.666620336509"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99988652229",
+            "stop": "3.00011347771",
+            "y_max": "0.66670382467",
+            "y_min": "0.66662817533"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99990619169",
+            "stop": "3.00009380831",
+            "y_max": "0.666697268459",
+            "y_min": "0.666634731541"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99992260809",
+            "stop": "3.00007739191",
+            "y_max": "0.666691796534",
+            "y_min": "0.666640203466"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99993628062",
+            "stop": "3.00006371938",
+            "y_max": "0.666687239192",
+            "y_min": "0.666644760808"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99994764387",
+            "stop": "3.00005235613",
+            "y_max": "0.666683451574",
+            "y_min": "0.666648548426"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99995706794",
+            "stop": "3.00004293206",
+            "y_max": "0.666680310322",
+            "y_min": "0.666651689678"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99996486724",
+            "stop": "3.00003513276",
+            "y_max": "0.666677710639",
+            "y_min": "0.666654289361"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99997130822",
+            "stop": "3.00002869178",
+            "y_max": "0.66667556371",
+            "y_min": "0.66665643629"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99997661618",
+            "stop": "3.00002338382",
+            "y_max": "0.666673794442",
+            "y_min": "0.666658205558"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99998098115",
+            "stop": "3.00001901885",
+            "y_max": "0.666672339494",
+            "y_min": "0.666659660506"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99998456302",
+            "stop": "3.00001543698",
+            "y_max": "0.666671145568",
+            "y_min": "0.666660854432"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99998749604",
+            "stop": "3.00001250396",
+            "y_max": "0.66667016792",
+            "y_min": "0.66666183208"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99998989262",
+            "stop": "3.00001010738",
+            "y_max": "0.666669369076",
+            "y_min": "0.666662630924"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999184671",
+            "stop": "3.00000815329",
+            "y_max": "0.666668717728",
+            "y_min": "0.666663282272"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9999934366",
+            "stop": "3.0000065634",
+            "y_max": "0.666668187776",
+            "y_min": "0.666663812224"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999472739",
+            "stop": "3.00000527261",
+            "y_max": "0.666667757518",
+            "y_min": "0.666664242482"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999577312",
+            "stop": "3.00000422688",
+            "y_max": "0.666667408947",
+            "y_min": "0.666664591053"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9999966185",
+            "stop": "3.0000033815",
+            "y_max": "0.66666712716",
+            "y_min": "0.66666487284"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999730043",
+            "stop": "3.00000269957",
+            "y_max": "0.666666899852",
+            "y_min": "0.666665100148"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999784934",
+            "stop": "3.00000215066",
+            "y_max": "0.666666716884",
+            "y_min": "0.666665283116"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999829022",
+            "stop": "3.00000170978",
+            "y_max": "0.666666569924",
+            "y_min": "0.666665430076"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999864358",
+            "stop": "3.00000135642",
+            "y_max": "0.666666452141",
+            "y_min": "0.666665547859"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999892616",
+            "stop": "3.00000107384",
+            "y_max": "0.666666357946",
+            "y_min": "0.666665642054"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999915167",
+            "stop": "3.00000084833",
+            "y_max": "0.666666282778",
+            "y_min": "0.666665717222"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999933123",
+            "stop": "3.00000066877",
+            "y_max": "0.666666222924",
+            "y_min": "0.666665777076"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9999994739",
+            "stop": "3.0000005261",
+            "y_max": "0.666666175367",
+            "y_min": "0.666665824633"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999958701",
+            "stop": "3.00000041299",
+            "y_max": "0.666666137664",
+            "y_min": "0.666665862336"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999967649",
+            "stop": "3.00000032351",
+            "y_max": "0.666666107837",
+            "y_min": "0.666665892163"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999974713",
+            "stop": "3.00000025287",
+            "y_max": "0.666666084293",
+            "y_min": "0.666665915707"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999980276",
+            "stop": "3.00000019724",
+            "y_max": "0.666666065749",
+            "y_min": "0.666665934251"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999984648",
+            "stop": "3.00000015352",
+            "y_max": "0.666666051174",
+            "y_min": "0.666665948826"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999988077",
+            "stop": "3.00000011923",
+            "y_max": "0.666666039746",
+            "y_min": "0.666665960254"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999990759",
+            "stop": "3.00000009241",
+            "y_max": "0.666666030803",
+            "y_min": "0.666665969197"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999992854",
+            "stop": "3.00000007146",
+            "y_max": "0.666666023821",
+            "y_min": "0.666665976179"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999994486",
+            "stop": "3.00000005514",
+            "y_max": "0.666666018382",
+            "y_min": "0.666665981618"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999995754",
+            "stop": "3.00000004246",
+            "y_max": "0.666666014154",
+            "y_min": "0.666665985846"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999996738",
+            "stop": "3.00000003262",
+            "y_max": "0.666666010875",
+            "y_min": "0.666665989125"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999997499",
+            "stop": "3.00000002501",
+            "y_max": "0.666666008338",
+            "y_min": "0.666665991662"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999998087",
+            "stop": "3.00000001913",
+            "y_max": "0.666666006378",
+            "y_min": "0.666665993622"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999998539",
+            "stop": "3.00000001461",
+            "y_max": "0.666666004869",
+            "y_min": "0.666665995131"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999998888",
+            "stop": "3.00000001112",
+            "y_max": "0.666666003708",
+            "y_min": "0.666665996292"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999155",
+            "stop": "3.00000000845",
+            "y_max": "0.666666002818",
+            "y_min": "0.666665997182"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999359",
+            "stop": "3.00000000641",
+            "y_max": "0.666666002137",
+            "y_min": "0.666665997863"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999515",
+            "stop": "3.00000000485",
+            "y_max": "0.666666001617",
+            "y_min": "0.666665998383"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999634",
+            "stop": "3.00000000366",
+            "y_max": "0.666666001221",
+            "y_min": "0.666665998779"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999724",
+            "stop": "3.00000000276",
+            "y_max": "0.66666600092",
+            "y_min": "0.66666599908"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999793",
+            "stop": "3.00000000207",
+            "y_max": "0.666666000691",
+            "y_min": "0.666665999309"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999844",
+            "stop": "3.00000000156",
+            "y_max": "0.666666000519",
+            "y_min": "0.666665999481"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999884",
+            "stop": "3.00000000116",
+            "y_max": "0.666666000388",
+            "y_min": "0.666665999612"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999913",
+            "stop": "3.00000000087",
+            "y_max": "0.66666600029",
+            "y_min": "0.66666599971"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999935",
+            "stop": "3.00000000065",
+            "y_max": "0.666666000216",
+            "y_min": "0.666665999784"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999952",
+            "stop": "3.00000000048",
+            "y_max": "0.66666600016",
+            "y_min": "0.66666599984"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999964",
+            "stop": "3.00000000036",
+            "y_max": "0.666666000119",
+            "y_min": "0.666665999881"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999974",
+            "stop": "3.00000000026",
+            "y_max": "0.666666000088",
+            "y_min": "0.666665999912"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.9999999998",
+            "stop": "3.0000000002",
+            "y_max": "0.666666000065",
+            "y_min": "0.666665999935"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999986",
+            "stop": "3.00000000014",
+            "y_max": "0.666666000048",
+            "y_min": "0.666665999952"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999989",
+            "stop": "3.00000000011",
+            "y_max": "0.666666000035",
+            "y_min": "0.666665999965"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999992",
+            "stop": "3.00000000008",
+            "y_max": "0.666666000026",
+            "y_min": "0.666665999974"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999994",
+            "stop": "3.00000000006",
+            "y_max": "0.666666000019",
+            "y_min": "0.666665999981"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999996",
+            "stop": "3.00000000004",
+            "y_max": "0.666666000014",
+            "y_min": "0.666665999986"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999997",
+            "stop": "3.00000000003",
+            "y_max": "0.66666600001",
+            "y_min": "0.66666599999"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999998",
+            "stop": "3.00000000002",
+            "y_max": "0.666666000007",
+            "y_min": "0.666665999993"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999998",
+            "stop": "3.00000000002",
+            "y_max": "0.666666000005",
+            "y_min": "0.666665999995"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999999",
+            "stop": "3.00000000001",
+            "y_max": "0.666666000004",
+            "y_min": "0.666665999996"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999999",
+            "stop": "3.00000000001",
+            "y_max": "0.666666000003",
+            "y_min": "0.666665999997"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "2.99999999999",
+            "stop": "3.00000000001",
+            "y_max": "0.666666000002",
+            "y_min": "0.666665999998"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666000001",
+            "y_min": "0.666665999999"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666000001",
+            "y_min": "0.666665999999"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666000001",
+            "y_min": "0.666665999999"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666000001",
+            "y_min": "0.666665999999"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "bifzoom/bifzoom",
+            "scale": "720",
+            "start": "3.0",
+            "stop": "3.0",
+            "y_max": "0.666666",
+            "y_min": "0.666666"
+        }
+    ]
+}

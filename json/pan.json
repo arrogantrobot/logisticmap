@@ -1,0 +1,84 @@
+{
+  "images" : [
+    {
+      "scale" : "720.0",
+      "aspect_ratio" : "1.777",
+      "y_min" : "0.6622222",
+      "y_max" : "0.6622223",
+      "start" : "2.9999998",
+      "stop" :  "3.0000000",
+      "output_name" : "zoomout",
+      "num_threads" : "4"
+    },
+    {
+      "scale" : "720.0",
+      "aspect_ratio" : "1.777",
+      "y_min" : "0.662222",
+      "y_max" : "0.662223",
+      "start" : "2.999998",
+      "stop" :  "3.000000",
+      "output_name" : "zoomout",
+      "num_threads" : "4"
+    },
+    {
+      "scale" : "720.0",
+      "aspect_ratio" : "1.777",
+      "y_min" : "0.66222",
+      "y_max" : "0.66223",
+      "start" : "2.99998",
+      "stop" :  "3.00000",
+      "output_name" : "zoomout",
+      "num_threads" : "4"
+    },
+    {
+      "scale" : "720.0",
+      "aspect_ratio" : "1.777",
+      "y_min" : "0.6622",
+      "y_max" : "0.6623",
+      "start" : "2.9998",
+      "stop" :  "3.0000",
+      "output_name" : "zoomout",
+      "num_threads" : "4"
+    },
+    {
+      "scale" : "720.0",
+      "aspect_ratio" : "1.777",
+      "y_min" : "0.662",
+      "y_max" : "0.663",
+      "start" : "2.998",
+      "stop" :  "3.000",
+      "output_name" : "zoomout",
+      "num_threads" : "4"
+    },
+    {
+      "scale" : "720.0",
+      "aspect_ratio" : "1.777",
+      "y_min" : "0.66",
+      "y_max" : "0.67",
+      "start" : "2.99",
+      "stop" :  "3.00",
+      "output_name" : "zoomout",
+      "num_threads" : "4"
+    },
+    {
+      "scale" : "720.0",
+      "aspect_ratio" : "1.777",
+      "y_min" : "0.6",
+      "y_max" : "0.7",
+      "start" : "2.95",
+      "stop" :  "3.05",
+      "output_name" : "zoomout",
+      "num_threads" : "4"
+    },
+    {
+      "scale" : "720.0",
+      "aspect_ratio" : "1.777",
+      "y_min" : "0.4",
+      "y_max" : "0.8",
+      "start" : "2.5",
+      "stop" :  "3.5",
+      "output_name" : "zoomout",
+      "num_threads" : "4"
+    }
+  ]
+}

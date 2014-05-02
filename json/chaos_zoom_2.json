@@ -1,0 +1,254 @@
+{
+    "images": [
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "2.07",
+            "stop": "5.07",
+            "y_max": "1.32795",
+            "y_min": "0.32805"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "2.1299998",
+            "stop": "5.0100002",
+            "y_max": "1.3079522",
+            "y_min": "0.3480478"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "2.245199432",
+            "stop": "4.894800568",
+            "y_max": "1.269556408",
+            "y_min": "0.386443592"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "2.40417497024",
+            "stop": "4.73582502976",
+            "y_max": "1.21657016896",
+            "y_min": "0.439429831039"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "2.59070635323",
+            "stop": "4.54929364677",
+            "y_max": "1.1543995637",
+            "y_min": "0.501600436298"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "2.78656442972",
+            "stop": "4.35343557028",
+            "y_max": "1.08912030383",
+            "y_min": "0.566879696174"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "2.97458833984",
+            "stop": "4.16541166016",
+            "y_max": "1.02645205766",
+            "y_min": "0.629547942341"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.14130304897",
+            "stop": "3.99869695103",
+            "y_max": "0.970886037236",
+            "y_min": "0.685113962764"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.27848561602",
+            "stop": "3.86151438398",
+            "y_max": "0.925162962601",
+            "y_min": "0.730837037399"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.38343044444",
+            "stop": "3.75656955556",
+            "y_max": "0.890184645887",
+            "y_min": "0.765815354113"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.4580580179",
+            "stop": "3.6819419821",
+            "y_max": "0.865311036295",
+            "y_min": "0.790688963705"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.50731232584",
+            "stop": "3.63268767416",
+            "y_max": "0.84889434451",
+            "y_min": "0.80710565549"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.53740230914",
+            "stop": "3.60259769086",
+            "y_max": "0.838865159448",
+            "y_min": "0.817134840552"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.55435305188",
+            "stop": "3.58564694812",
+            "y_max": "0.83321533304",
+            "y_min": "0.82278466696"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56311531362",
+            "stop": "3.57688468638",
+            "y_max": "0.830294775746",
+            "y_min": "0.825705224254"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56724611168",
+            "stop": "3.57275388832",
+            "y_max": "0.828917924069",
+            "y_min": "0.827082075931"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56900859433",
+            "stop": "3.57099140567",
+            "y_max": "0.82833045854",
+            "y_min": "0.82766954146"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56968274794",
+            "stop": "3.57031725206",
+            "y_max": "0.82810574898",
+            "y_min": "0.82789425102"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56991116866",
+            "stop": "3.57008883134",
+            "y_max": "0.828029610476",
+            "y_min": "0.827970389524"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56997868025",
+            "stop": "3.57002131975",
+            "y_max": "0.828007106739",
+            "y_min": "0.827992893261"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999573599",
+            "stop": "3.57000426401",
+            "y_max": "0.828001421405",
+            "y_min": "0.827998578595"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999931775",
+            "stop": "3.57000068225",
+            "y_max": "0.828000227437",
+            "y_min": "0.827999772563"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999991813",
+            "stop": "3.57000008187",
+            "y_max": "0.828000027294",
+            "y_min": "0.827999972706"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999999345",
+            "stop": "3.57000000655",
+            "y_max": "0.828000002184",
+            "y_min": "0.827999997816"
+        },
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999999974",
+            "stop": "3.57000000026",
+            "y_max": "0.828000000087",
+            "y_min": "0.827999999913"
+        }
+    ]
+}

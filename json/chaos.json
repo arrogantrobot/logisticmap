@@ -1,0 +1,21 @@
+{
+  "frames" : "400",
+  "threads" : "4",
+
+  "x_min_start" : "3.550",
+  "x_min_stop" : "3.550",
+
+  "x_max_start" : "3.650",
+  "x_max_stop" : "3.650",
+
+  "y_min_start" : "0.400",
+  "y_min_stop" : "0.600",
+
+  "y_max_start" : "0.450",
+  "y_max_stop" : "0.650",
+
+  "scale" : "720",
+  "aspect_ratio" : "1.777777",
+  "output_name" : "chaos_2/chaos"
+}
+

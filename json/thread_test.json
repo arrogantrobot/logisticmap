@@ -1,0 +1,14 @@
+{
+    "images": [
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "threadcheck",
+            "scale": "720",
+            "start": "2.9996591066",
+            "stop": "3.0003408934",
+            "y_max": "0.662113626513",
+            "y_min": "0.661886373487"
+        }
+    ]
+}

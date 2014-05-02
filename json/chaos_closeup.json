@@ -1,0 +1,14 @@
+{
+    "images": [
+        {
+            "aspect_ratio": "1.777777",
+            "num_threads": "4",
+            "output_name": "chaos_zoom_2/chaos_zoom",
+            "scale": "720",
+            "start": "3.56999999974",
+            "stop": "3.57000000026",
+            "y_max": "0.828000000087",
+            "y_min": "0.827999999913"
+        }
+    ]
+}
